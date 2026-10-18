@@ -1,0 +1,5 @@
+# Planning files - keep out of the public site
+*.pdf
+*.docx
+Thumbs.db
+desktop.ini
